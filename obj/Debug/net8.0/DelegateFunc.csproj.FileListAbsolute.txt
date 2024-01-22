@@ -1,0 +1,15 @@
+C:\Users\guilh\source\repos\ConsoleApp2\DelegateFunc\bin\Debug\net8.0\DelegateFunc.exe
+C:\Users\guilh\source\repos\ConsoleApp2\DelegateFunc\bin\Debug\net8.0\DelegateFunc.deps.json
+C:\Users\guilh\source\repos\ConsoleApp2\DelegateFunc\bin\Debug\net8.0\DelegateFunc.runtimeconfig.json
+C:\Users\guilh\source\repos\ConsoleApp2\DelegateFunc\bin\Debug\net8.0\DelegateFunc.dll
+C:\Users\guilh\source\repos\ConsoleApp2\DelegateFunc\bin\Debug\net8.0\DelegateFunc.pdb
+C:\Users\guilh\source\repos\ConsoleApp2\DelegateFunc\obj\Debug\net8.0\DelegateFunc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\source\repos\ConsoleApp2\DelegateFunc\obj\Debug\net8.0\DelegateFunc.AssemblyInfoInputs.cache
+C:\Users\guilh\source\repos\ConsoleApp2\DelegateFunc\obj\Debug\net8.0\DelegateFunc.AssemblyInfo.cs
+C:\Users\guilh\source\repos\ConsoleApp2\DelegateFunc\obj\Debug\net8.0\DelegateFunc.csproj.CoreCompileInputs.cache
+C:\Users\guilh\source\repos\ConsoleApp2\DelegateFunc\obj\Debug\net8.0\DelegateFunc.sourcelink.json
+C:\Users\guilh\source\repos\ConsoleApp2\DelegateFunc\obj\Debug\net8.0\DelegateFunc.dll
+C:\Users\guilh\source\repos\ConsoleApp2\DelegateFunc\obj\Debug\net8.0\refint\DelegateFunc.dll
+C:\Users\guilh\source\repos\ConsoleApp2\DelegateFunc\obj\Debug\net8.0\DelegateFunc.pdb
+C:\Users\guilh\source\repos\ConsoleApp2\DelegateFunc\obj\Debug\net8.0\DelegateFunc.genruntimeconfig.cache
+C:\Users\guilh\source\repos\ConsoleApp2\DelegateFunc\obj\Debug\net8.0\ref\DelegateFunc.dll
